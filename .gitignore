@@ -1,0 +1,17 @@
+# Ignorar archivos compilados de Java
+*.class
+
+# Ignorar carpetas de compilación
+bin/
+out/
+
+# Ignorar archivos temporales del sistema o del editor
+*.log
+*.tmp
+*.swp
+
+# Ignorar configuración local de VS Code (opcional)
+.vscode/
+
+# Ignorar mis apuntes personales
+apuntes.md
